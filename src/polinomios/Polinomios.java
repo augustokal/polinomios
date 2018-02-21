@@ -22,7 +22,7 @@ public class Polinomios {
      */
     public static void main(String[] args) {
         //testando comit
-
+//segundo teste ssfsfsfdsgdg
         Scanner Leitor = new Scanner(System.in);
 
         ArrayList<Double> listaDeX = new ArrayList<>();
